@@ -11,7 +11,8 @@ import species.Leatherback;
 import species.Loggerhead;
 import species.OliveRidley;
 
-public class main {
+
+public class Main {
 
 	public static void main(String[] args) {
 		
